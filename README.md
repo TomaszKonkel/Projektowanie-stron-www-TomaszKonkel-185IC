@@ -10,5 +10,12 @@
 						 
 						 
 								LIST
-![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC
+![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/List.png)
+
+									
+								Podręcznik
+![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Podr%C4%99cznik.png)
 								
+
+								Formularz
+![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Formularz.png)								
