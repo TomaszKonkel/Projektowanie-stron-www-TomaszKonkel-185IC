@@ -6,16 +6,15 @@
 
 							STRONA GŁÓWNA
 
-![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/G%C5%82%C3%B3wna.png)
-						 
+![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/1.png)
 						 
 								LIST
-![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/List.png)
+![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/2.png)
 
 									
 								Podręcznik
-![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Podr%C4%99cznik.png)
+![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/3.png)
 								
 
 								Formularz
-![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Formularz.png)							
+![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/4.png)							
