@@ -18,4 +18,4 @@
 								
 
 								Formularz
-![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Formularz.png)								
+![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Formularz.png)							
