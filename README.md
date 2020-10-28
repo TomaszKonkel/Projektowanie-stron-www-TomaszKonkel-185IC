@@ -6,7 +6,7 @@
 
 							STRONA GŁÓWNA
 
-![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/zdjecie/1.png)
+![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/zdjecie/1..png)
 						 
 								LIST
 ![alt text]( https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/zdjecie/2.png)
