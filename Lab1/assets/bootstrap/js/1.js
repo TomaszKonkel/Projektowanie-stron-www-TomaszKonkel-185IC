@@ -1,0 +1,1 @@
+alert("Oto strona startowa");
