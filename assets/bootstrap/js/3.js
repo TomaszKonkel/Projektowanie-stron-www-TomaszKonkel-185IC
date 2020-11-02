@@ -1,1 +1,0 @@
-alert("Oto strona z przykładowym podrecznikiem");
