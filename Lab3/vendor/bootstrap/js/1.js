@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	
+	// Zadanie do wykonania z JavaScript
     function zad1(zdanie) {
         const result = zdanie.length;
         console.info("Liczba liter: " + result + " gdzie " + result + " to liczba liter tekstu.")
@@ -122,6 +122,8 @@ $(document).ready(function () {
     countWomanInTable(users);
 
 
+	
+	//Obsługa zdarzeń addEventListener
 	const przycisk1 = document.getElementById('przycisk1');
     przycisk1.addEventListener('click', () => {
         console.log('Kliknieto mnie ');
