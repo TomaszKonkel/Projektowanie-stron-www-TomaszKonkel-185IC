@@ -4,4 +4,5 @@
 
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
-#Laboratorium numer 1 
+#Strona główna
+
