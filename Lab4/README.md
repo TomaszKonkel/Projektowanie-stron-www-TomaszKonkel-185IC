@@ -5,4 +5,4 @@
 
 							STRONA GŁÓWNA
 
-![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Lab2/Wygl%C4%85d.PNG)						
+![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Lab4/Zdjecie/1.PNG)						
