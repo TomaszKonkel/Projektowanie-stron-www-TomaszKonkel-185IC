@@ -1,7 +1,7 @@
 # Projektowanie-stron-www-TomaszKonkel-185IC
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
-#Laboratorium numer 2 
+#Laboratorium numer 4
 
 							STRONA GŁÓWNA
 
