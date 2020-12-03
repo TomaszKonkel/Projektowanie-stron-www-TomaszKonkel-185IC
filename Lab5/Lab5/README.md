@@ -3,6 +3,6 @@
 
 #Laboratorium numer 5
 
-							STRONA GŁÓWNA
+							Zadania wyświetlone w konsoli 
 
-![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Lab2/Wygl%C4%85d.PNG)						
+![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Lab5/Lab5/vendor/bootstrap/css/zdjecie.PNG)						
