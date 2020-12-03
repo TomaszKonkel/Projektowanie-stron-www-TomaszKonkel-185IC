@@ -2,6 +2,8 @@
 # Autor: Tomasz Konkel grupa: 185IC_B1
 
 #Laboratorium numer 5
+
+
 #Kod zawarty w vendor/bootstrap/js/1.js
 
 							Zadania wyświetlone w konsoli 
