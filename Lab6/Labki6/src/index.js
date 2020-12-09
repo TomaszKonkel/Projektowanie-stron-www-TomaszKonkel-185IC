@@ -15,18 +15,18 @@ class Parent extends React.Component {
         screen_size: 6.47
         };
   }
-	InicjalizowanieZegara() {
+	 componentWillMount() {
     this.timerID = setInterval(
       () => this.tick(),
       1000
     );
   }
 
-  ResetowanieZegara() {
+   componentWillUnmount() {
     clearInterval(this.timerID);
   }
 
-  sekunda() {
+  tick() {
     this.setState({
       date: new Date()
     });
