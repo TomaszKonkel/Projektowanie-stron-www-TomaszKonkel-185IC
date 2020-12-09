@@ -6,3 +6,4 @@
 							Wygląd strony
 
 ![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Lab6/Labki6/Zdjecia/1.PNG)
+
