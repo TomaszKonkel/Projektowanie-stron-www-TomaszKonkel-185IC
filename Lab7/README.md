@@ -3,7 +3,7 @@
 
 #Laboratorium numer 7
 
-							                                    STRONA GŁÓWNA
+						   STRONA GŁÓWNA
 
 ![alt text](https://github.com/TomaszKonkel/Projektowanie-stron-www-TomaszKonkel-185IC/blob/main/Lab7/zdj%C4%99cia/1.PNG)	
 
